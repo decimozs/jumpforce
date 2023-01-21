@@ -269,6 +269,7 @@ if __name__ == '__main__':
         delayText(f"\n{Colors.BOLD}{Colors.OKGREEN}[-{player2} Picks Deku!-]{Colors.ENDC}\n")
         p2_hero = Deku
         
+    # loading configurations
     delayText(f"\n{Colors.OKGREEN} ↻"+f" Loading...\n\n{Colors.ENDC}")    
     delayText(f"\n{Colors.WARNING} ↺"+f" Initializing Battle Information...\n\n{Colors.ENDC}")    
     delayText(f"\n{Colors.OKCYAN} ↺"+f" Initializing....\n\n{Colors.ENDC}")  
